@@ -188,7 +188,7 @@ ________________________________________________________________________________
 
 **Alignment:** Any
 
-**HD:** d10
+**HD:** d6
 
 **Class Skills:** Knowledge [Arcana] (Int), Knowledge [Religion] (Int), Linguistics (Int), Spellcraft (Int), Appraise (Int), Fly (Dex), Choose 2 Skills to be Class Skills
 
@@ -263,7 +263,7 @@ __FORMULAE__
  * Time: You can quicken a spell [+4 spell levels]. You can lengthen the cast time [to one minute] to reduce the spell level by 1.
  * Range: For each range category, increase the spell level by .5 [e.g. Close = 0, Medium = .5, Long = 1]
  * Area: Add +1 spell levels to affect an additional opponent or add the equivalent of a 100' line or 20' burst to the spell's area of effect [or equivalent for different shapes].
- * Duration: If it is a long term spell [hex, buff] assume that the duration starts at 10 min / level and add 1 spell level per step you move it forward [1hr/CL +1, 1 day +2, permanent works with just a casting of Permanency via Epic Spell + 2,500gp per spell level].
+ * Duration: If it is a long term spell [ buff] assume that the duration starts at 10 min / level and add 1 spell level per step you move it forward [1hr/CL +1, 1 day +2, permanent works with just a casting of Permanency via Epic Spell + 2,500gp per spell level]. Summons, Disabling, and anything that isn't 'damage offense' lasts 1 round per CL. HP damage is instaneous duration.
 
 __SPELL SEEDS__
  * Save or Die [Fort] - Spell Level 3 - If the target fails their save, they drop to -1 hit points and start dying. 
